@@ -1,9 +1,9 @@
 
-RESOURCES FOR GAME JAMMERS
+## RESOURCES FOR GAME JAMMERS
 
 
 Table of contents
-Tools
+<a href="#tools">Tools</a>
 Vector/Scalar Image & 2D Graphics
 Source Control
 IDEs
@@ -17,7 +17,9 @@ Miscellaneous
 Board games
 Task Management Tools
 
+<h3 id="tools">
 Tools
+</h3>
 Modeling - http://blender.org
 Open Source Tool for Storytelling - http://twinery.org/ 
 Openframeworks - C++ toolkit - http://www.openframeworks.cc/
