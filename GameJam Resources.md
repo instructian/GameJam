@@ -3,19 +3,19 @@
 
 
 Table of contents
-<a href="#tools">Tools</a>
-Vector/Scalar Image & 2D Graphics
-Source Control
-IDEs
-Engines
-Sound
-HTML5 / Javascript
-Frameworks
-Assets
-SDKs
-Miscellaneous
-Board games
-Task Management Tools
+  <a href="#tools">Tools</a>
+  Vector/Scalar Image & 2D Graphics
+  Source Control
+  IDEs
+  Engines
+  Sound
+  HTML5 / Javascript
+  Frameworks
+  Assets
+  SDKs
+  Miscellaneous
+  Board games
+  Task Management Tools
 
 <h3 id="tools">
 Tools
